@@ -46,11 +46,6 @@ In over two decades of website development and design that has morphed over the 
 **My sincere thanks to everyone who has contributed to Webmin/Virtualmin.**
 ---
 
-![Screenshot of Webmin login screen](https://github.com/nativeit-dev/nativemin-theme/blob/master/screenshots/login-ui.png?raw=true)
-
-![Screenshot of main Webmin navigation](https://github.com/nativeit-dev/nativemin-theme/blob/master/screenshots/sidebar.png?raw=true)
-
-![Screenshot of main Webmin theme extensions editor](https://github.com/nativeit-dev/nativemin-theme/blob/master/screenshots/theme-extensions.png?raw=true)
 ---
 
 #### Known issues & TODO
