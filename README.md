@@ -1,6 +1,5 @@
 # N A T I V E M I N
 ---
-![Profile Image](https://github.com/nativeit-dev/nativemin-theme/blob/527755a7cf8a03ad6b745b5d0460d3d525700d48/img/profile@0.5x.jpg?raw=true)
 
 ## Custom CSS Extension For Virtualmin's Authentic Theme
 
